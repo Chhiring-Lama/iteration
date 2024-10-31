@@ -1,7 +1,7 @@
 Writing functions
 ================
 Chhiring Lama
-2024-10-31
+2024-10-24
 
 ``` r
 set.seed(1)
